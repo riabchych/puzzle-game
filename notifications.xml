@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="ADB Logs" />
+    <notification groupId="Compiler" />
+    <notification groupId="Execution" />
+  </component>
+</application>
